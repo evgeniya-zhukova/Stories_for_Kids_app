@@ -1,7 +1,7 @@
 # Stories for kids app
 
 ## Used Technologies:
-XCode, Swift
+Swift
 
 ## Description:
 The mobile application is an individual project created on the Swift programming language in the XCode program for devices with the IOS operating system. The application was made as a base for a library of books for children. Here was used Navigation Controller and a system of different types of links between pages. This prototype of the library consists of two levels. Each level is designed for storing books for a particular children's age.
